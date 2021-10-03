@@ -87,8 +87,11 @@
 <!-- Activity Graph -->
 <hr/>
 
+<div align="center">
+
 ### 30 Days Contribution Graph
 [![licofiS's github activity graph](https://activity-graph.herokuapp.com/graph?username=licofiS&theme=xcode)](https://github.com/licofiS/github-readme-activity-graph)
+</div>
 
 <!-- Details -->
 

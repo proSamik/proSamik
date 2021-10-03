@@ -3,6 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=licofis&label=Profile%20views&color=0e75b6&style=flat" alt="licofis" /> </p>
 
+
 - 🌱 I’m currently learning **Android Development, Django Framework**
 
 - 💬 Ask me about **Android Development, Python**
@@ -79,13 +80,14 @@
 
 <div align="center">
   <a align="center" href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-    <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=licofis&theme=onedark&column=8" alt="licofis" />
+    <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=licofis&theme=onedark&column=7" alt="licofis" />
   </a>
 </div>
 
 <!-- Activity Graph -->
 <hr/>
 
+### 30 Days Contribution Graph
 [![licofiS's github activity graph](https://activity-graph.herokuapp.com/graph?username=licofiS&theme=xcode)](https://github.com/licofiS/github-readme-activity-graph)
 
 <!-- Details -->

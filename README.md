@@ -4,27 +4,27 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=licofis&label=Profile%20views&color=0e75b6&style=flat" alt="licofis" /> </p>
 
 
-- 🌱 I’m currently learning **Android Development & Django Framework**
+- 🌱 I’m currently working as a Software Engineer (Trainee) at rtCamp**
 
-- 💬 Ask me about **Android Development & Python**
-
-- 📫 Reach me here **samikchoudhury15@gmail.com**
+- 📫 Reach me here **samik.choudhury@rtcamp.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/samik15" target="blank">
+<a href="https://linkedin.com/in/proSamik" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samik15" height="30" width="40" />
   </a>
 </p>
 
 
-<!-- Contributions -->
+<!-- Contributions 
 <hr/>
 <div align="center">
 
 ### Contributions
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=licofis&theme=react&hide_border=true&fire=DD2727" alt="licofis" /></p>
 </div>
+
+-->
 
 <!-- Github Statistics -->
 <hr/>

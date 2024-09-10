@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=licofis&label=Profile%20views&color=0e75b6&style=flat" alt="licofis" /> </p>
 
 
-- 🌱 I’m currently learning how to code**
+- 🌱 I’m currently learning how to code.
 
 - 📫 Reach me here **samikchoudhury15@gmail.com**
 

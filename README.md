@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=licofis&label=Profile%20views&color=0e75b6&style=flat" alt="licofis" /> </p>
 
 
-- 🌱 I’m currently working as a Software Engineer (Trainee) at rtCamp**
+- 🌱 I’m currently learning how to code**
 
-- 📫 Reach me here **samik.choudhury@rtcamp.com**
+- 📫 Reach me here **samikchoudhury15@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">

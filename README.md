@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samik </h1>
-<h3 align="center">I love to build things for a better cause ❤️</h3>
+<h3 align="center">I love to build and innovate new solutions for the problems</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=licofis&label=Profile%20views&color=0e75b6&style=flat" alt="licofis" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=proSamik&label=Profile%20views&color=0e75b6&style=flat" alt="proSamik" /> </p>
 
 
 - 🌱 I’m currently learning how to code.
@@ -11,7 +11,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/proSamik" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samik15" height="30" width="40" />
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="proSamik" height="30" width="40" />
   </a>
 </p>
 
@@ -31,7 +31,7 @@
 <div align="center">
   
 ### Github Statistics
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=licofis&theme=react&show_icons=true&locale=en" alt="licofis" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=proSamik&theme=react&show_icons=true&locale=en" alt="proSamik" /></p>
 </div>
 
 <!-- Most Used language -->
@@ -39,7 +39,7 @@
 <div align="center">
   
 ### Most Used language
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=licofis&theme=react&show_icons=true&locale=en&layout=compact" alt="licofis" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=proSamik&theme=react&show_icons=true&locale=en&layout=compact" alt="proSamik" /></p>
 </div>
 
 
@@ -48,7 +48,7 @@
 
 <div align="center">
   <a align="center" href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-    <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=licofis&theme=onedark&column=7" alt="licofis" />
+    <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=proSamik&theme=onedark&column=7" alt="proSamik" />
   </a>
 </div>
 

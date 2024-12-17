@@ -1,13 +1,30 @@
-<h1 align="center">Hi 👋, I'm Samik </h1>
-<h3 align="center">I love to build and learn new technologies</h3>
-<h3 align="center">Currently focusing on backend technologies, microservices architecture and deployment hacks</h3>
+<div align="center">
+    
+# Hi 👋, I'm Samik
+### **I love to build and learn new technologies**
+#### *Currently focusing on backend technologies, microservices architecture and deployment hacks*
+<p>
+<a href="https://linkedin.com/in/proSamik"><img src="https://img.shields.io/badge/If_you_need_any_help,_I_would_love_to_help_you_(at_no_cost,_ofc),_so_feel_free_to_reach_me!-black" alt="If you need any help, I would love to help you (at no cost, ofc), so feel free to reach me!" /></a>
+</p>
 
-<p align="left"> <img align="center" src="https://img.shields.io/badge/Profile%20Since-red" alt="Profile Since" /><img align="center" src="https://img.shields.io/badge/01--Nov--2020-grey" alt="01/11/2020 - Present" />  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   <img src="https://komarev.com/ghpvc/?username=proSamik&label=Profile%20views&color=2363F7&style=flat" alt="proSamik" /> </p>
+    
+</div>
 
 <!-- About me -->
-- ♻️ I'm restarting my development journey again! &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   <img align="center" src="https://img.shields.io/badge/17--Dec--2024-Present-red" alt="17/12/2024 - Present" />
+<p>
+<img src="https://img.shields.io/badge/Profile%20Since-red" alt="Profile Since" /><img src="https://img.shields.io/badge/01--Nov--2020-grey" alt="01/11/2020 - Present" /> <img align="right" src="https://komarev.com/ghpvc/?username=proSamik&label=Profile%20views&color=2363F7&style=flat" alt="proSamik" />
+</p>
 
-- 📫 Reach me here for collaborations and help &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp; [ <img src="https://img.shields.io/badge/dev.samikc@gmail.com-red" alt="Profile Since" /> ](mailto:dev.samikc@gmail.com)
+<p>
+- ♻️ I'm restarting my development journey again! <img align="right" src="https://img.shields.io/badge/17--Dec--2024-Present-red" alt="17/12/2024 - Present" />
+</p>
+
+<p>
+- 📫 Reach me here for collaborations and help <a href="mailto:dev.samikc@gmail.com"><img align="right" src="https://img.shields.io/badge/dev.samikc@gmail.com-red" alt="Profile Since" /></a>
+</p>
+
+
+<!-- Social Media Links -->
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">

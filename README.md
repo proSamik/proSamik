@@ -47,7 +47,7 @@
   <tr style="border: none">
     <td width="50%" align="center" style="border: none">
       <h3>Streak</h3>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=proSamik&theme=dark&hide_border=true" alt="Streak stats" />
+       <img src="https://streak-stats.demolab.com?user=proSamik&theme=youtube-dark&border_radius=5&date_format=j%20M%5B%20Y%5D&mode=weekly&hide_longest_streak=true" alt="Streak" />
     </td>
     <td width="50%" align="center" style="border: none">
       <h3>Github Statistics</h3>

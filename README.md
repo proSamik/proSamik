@@ -43,15 +43,17 @@
 <div align="center">
   
 ### Profile Data
-<table width="100%" border="0" style="border: none">
+<table border="0" style="border: none">
   <tr style="border: none">
-    <td width="50%" align="center" style="border: none">
+      <!--
+    <td align="center" style="border: none">
       <h3>Streak</h3>
-       <img src="https://streak-stats.demolab.com?user=proSamik&theme=youtube-dark&border_radius=5&date_format=j%20M%5B%20Y%5D&mode=weekly&hide_longest_streak=true" alt="Streak" />
+       <img src="https://git-hub-streak-stats.vercel.app?user=prosamik&theme=dark&border_radius=5&mode=weekly&type=png" alt="GitHub Streak" />
     </td>
-    <td width="50%" align="center" style="border: none">
+      -->
+    <td align="center" style="border: none">
       <h3>Github Statistics</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=proSamik&theme=react&show_icons=true&locale=en" alt="Github stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=prosamik&theme=dark&show_icons=true&hide_border=false&count_private=true" alt="Github stats" />
     </td>
   </tr>
 </table>

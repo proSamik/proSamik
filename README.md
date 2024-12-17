@@ -45,12 +45,10 @@
 ### Profile Data
 <table border="0" style="border: none">
   <tr style="border: none">
-      <!--
     <td align="center" style="border: none">
       <h3>Streak</h3>
-       <img src="https://git-hub-streak-stats.vercel.app?user=prosamik&theme=dark&border_radius=5&mode=weekly&type=png" alt="GitHub Streak" />
+       <img src="https://git-hub-streak-stats.vercel.app?user=prosamik&theme=dark&border_radius=5&mode=weekly" alt="GitHub Streak" />
     </td>
-      -->
     <td align="center" style="border: none">
       <h3>Github Statistics</h3>
       <img src="https://github-readme-stats.vercel.app/api?username=prosamik&theme=dark&show_icons=true&hide_border=false&count_private=true" alt="Github stats" />

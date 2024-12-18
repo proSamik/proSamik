@@ -25,14 +25,14 @@
   </p>
 
   <p>
-    - ♻️ I'm restarting my development journey again!
+    ♻️ I'm restarting my development journey again!
     <a href="https://linkedin.com/in/proSamik">
       <img align="right" src="https://img.shields.io/badge/17--Dec--2024-Present-red" alt="17/12/2024 - Present" />
     </a>
   </p>
 
   <p>
-    - 📫 Reach me here for collaborations and help
+    📫 Reach me here for collaborations and help
     <a href="mailto:dev.samikc@gmail.com">
       <img align="right" src="https://img.shields.io/badge/dev.samikc@gmail.com-red" alt="Profile Since" />
     </a>

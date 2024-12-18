@@ -4,7 +4,11 @@
 ### **I love to build and learn new technologies**  
 #### *Focusing on backend technologies, microservices architecture, and best deployment practices*
 
-[![If you need help, feel free to reach me!](https://img.shields.io/badge/If_you_need_any_help,_I_would_love_to_help_you_(at_no_cost,_ofc),_so_feel_free_to_reach_me!-black)](https://linkedin.com/in/proSamik)
+<p>
+  <a href="https://linkedin.com/in/proSamik">
+      <img src="https://img.shields.io/badge/If_you_need_any_help,_I_would_love_to_help_you_(at_no_cost,_ofc),_so_feel_free_to_reach_me!-black" alt="If you need any help, I would love to help you (at no cost, ofc), so feel free to reach me!" />
+    </a>
+  </p>
 
 </div>
 

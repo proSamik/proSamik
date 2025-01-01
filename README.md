@@ -15,12 +15,11 @@
 
 <div>
 
-  <div style="display: flex; justify-content: space-between; align-items: center; margin: 0;">
-  <p>
-    <a href="https://linkedin.com/in/proSamik"><img style="margin-right: 4px;" src="https://img.shields.io/badge/Profile%20Since-red" alt="Profile Since" /></a><a href="https://linkedin.com/in/proSamik"><img style="margin-right: 4px;" src="https://img.shields.io/badge/01--Nov--2020-grey" alt="01/11/2020 - Present" /></a>
+<div style="display: flex; justify-content: flex-start; gap: 4px; align-items: center; margin: 0; width: 100%;">
+  <p style="display: flex; margin-right: auto;">
+    <a href="https://linkedin.com/in/proSamik"><img src="https://img.shields.io/badge/Profile%20Since-red" alt="Profile Since" /></a><a href="https://linkedin.com/in/proSamik"><img src="https://img.shields.io/badge/01--Nov--2020-grey" alt="01/11/2020 - Present" /></a>
     <a href="https://linkedin.com/in/proSamik"><img align="right" src="https://komarev.com/ghpvc/?username=proSamik&label=Profile%20views&color=2363F7&style=flat" alt="Profile Views" /></a>
   </p>
-
 </div>
 
 <p>

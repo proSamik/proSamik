@@ -44,6 +44,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=proSamik&theme=react&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </div>
 
+<!-- Trophy Section
 <h3 align="center">Profile Data</h3>
 
 <table>
@@ -57,11 +58,13 @@
 </tr>
 </table>
 
+-->
+
 <h3 align="center">Development Metrics</h3>
 
 <p align="center">
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=proSamik&theme=react" alt="GitHub Streak" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=proSamik&theme=react&show_icons=true" alt="GitHub Stats" />
+<img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=proSamik&theme=react" alt="GitHub Streak" />
+<img width="45%" src="https://github-readme-stats.vercel.app/api?username=proSamik&theme=react&show_icons=true" alt="GitHub Stats" />
 </p>
 
 <!-- Trophy Section (Optional, Uncomment to Use)

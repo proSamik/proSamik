@@ -48,8 +48,8 @@
 <div style="display: flex; justify-content: center; flex-direction: column; align-items: center; width: 100%;">
     <h3 align="center">Development Metrics</h3>
     <div style="display: flex; justify-content: center; gap: 16px; width: 100%;">
-        <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=proSamik&theme=react" alt="GitHub Streak" />
-        <img width="45%" src="https://github-readme-stats.vercel.app/api?username=proSamik&theme=react&show_icons=true" alt="GitHub Stats" />
+        <img  src="https://github-readme-streak-stats.herokuapp.com/?user=proSamik&theme=react" alt="GitHub Streak" />
+        <img  src="https://github-readme-stats.vercel.app/api?username=proSamik&theme=react&show_icons=true" alt="GitHub Stats" />
     </div>
 </div>
 

@@ -13,15 +13,19 @@
 
 </div>
 
-<div>
+<br>
 
 <div style="display: flex; width: 100%; align-items: center;"><a href="https://linkedin.com/in/proSamik"><img src="https://img.shields.io/badge/Profile%20Since-red" alt="Profile Since" /></a><a href="https://linkedin.com/in/proSamik"><img src="https://img.shields.io/badge/01--Nov--2020-grey" alt="01/11/2020 - Present" /></a><a href="https://linkedin.com/in/proSamik" style="margin-left: auto;"><img src="https://komarev.com/ghpvc/?username=proSamik&label=Profile%20views&color=2363F7&style=flat" alt="Profile Views" align="right" /></a></div>
 
+<br>
+
 <div style="display: flex; width: 100%; align-items: center;">- ♻️ I'm restarting my development journey again!<a href="https://linkedin.com/in/proSamik" style="margin-left: auto;"><img src="https://img.shields.io/badge/17--Dec--2024-Present-red" alt="17/12/2024 - Present" align="right"/></a></div>
+
+<br>
 
 <div style="display: flex; width: 100%; align-items: center;"><span>- 📫 Reach me here for collaborations and help</span><a href="mailto:dev.samikc@gmail.com" style="margin-left: auto;"><img src="https://img.shields.io/badge/dev.samikc@gmail.com-red" alt="Email" align="right"/></a></div>
 
-</div>
+
 
 <div align="center">
 
@@ -36,10 +40,8 @@
 </div>
 
 <div align="center">
-
-### Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=proSamik&theme=react&show_icons=true&locale=en&layout=compact)
-
+<h3> Most Used Languages </h3> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=proSamik&theme=react&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </div>
 
 <div align="center">

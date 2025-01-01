@@ -19,18 +19,14 @@
 
 <div style="display: flex; width: 100%; align-items: center;">- ♻️ I'm restarting my development journey again!<a href="https://linkedin.com/in/proSamik" style="margin-left: auto;"><img src="https://img.shields.io/badge/17--Dec--2024-Present-red" alt="17/12/2024 - Present" align="right"/></a></div>
 
-<p>
- - 📫 Reach me here for collaborations and help  
-  <a href="mailto:dev.samikc@gmail.com">
-    <img align="right" src="https://img.shields.io/badge/dev.samikc@gmail.com-red" alt="Email" />
-  </a>
-</p>
+<div style="display: flex; width: 100%; align-items: center;"><span>- 📫 Reach me here for collaborations and help</span><a href="mailto:dev.samikc@gmail.com" style="margin-left: auto;"><img src="https://img.shields.io/badge/dev.samikc@gmail.com-red" alt="Email" align="right"/></a></div>
 
 </div>
 
 <div align="center">
 
-### Connect with Me
+<h3>Connect with Me</h3> 
+
 <p>
   <a href="https://linkedin.com/in/proSamik" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />

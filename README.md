@@ -1,12 +1,20 @@
-<div align="center">
-  
-# Hi 👋, I'm Samik  
-### **I love to build and learn new technologies**  
-#### *Focusing on backend technologies, microservices architecture, and best deployment practices*
 
-<a href="https://linkedin.com/in/proSamik"><img src="https://img.shields.io/badge/If_you_need_any_help,_I_would_love_to_help_you_(at_no_cost,_ofc),_so_feel_free_to_reach_me!-black" alt="If you need any help, I would love to help you (at no cost, ofc), so feel free to reach me!" /></a>
+  
+<h1 align="center" > Hi 👋, I'm Samik </h1>
+
+<h3 align="center" > <strong> I love to build and learn new technologies </strong>   </h3> 
+<h4 align="center" > <strong> Focusing on backend technologies, microservices architecture, and best deployment practices </strong>   </h4> 
+
+<div align="center">
+
+<a  href="https://linkedin.com/in/proSamik" >
+  <img align ="center" src="https://img.shields.io/badge/If_you_need_any_help,_I_would_love_to_help_you_(at_no_cost,_ofc),_so_feel_free_to_reach_me!-black" alt="If you need any help, I would love to help you (at no cost, ofc), so feel free to reach me!" />
+</a>
 
 </div>
+
+
+<br>
 
 <div>
 <p>

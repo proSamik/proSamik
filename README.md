@@ -17,12 +17,7 @@
 
 <div style="display: flex; width: 100%; align-items: center;"><a href="https://linkedin.com/in/proSamik"><img src="https://img.shields.io/badge/Profile%20Since-red" alt="Profile Since" /></a><a href="https://linkedin.com/in/proSamik"><img src="https://img.shields.io/badge/01--Nov--2020-grey" alt="01/11/2020 - Present" /></a><a href="https://linkedin.com/in/proSamik" style="margin-left: auto;"><img src="https://komarev.com/ghpvc/?username=proSamik&label=Profile%20views&color=2363F7&style=flat" alt="Profile Views" align="right" /></a></div>
 
-<p>
- - ♻️ I'm restarting my development journey again!  
-  <a href="https://linkedin.com/in/proSamik">
-    <img align="right" src="https://img.shields.io/badge/17--Dec--2024-Present-red" alt="17/12/2024 - Present" />
-  </a>
-</p>
+<div style="display: flex; width: 100%; align-items: center;">- ♻️ I'm restarting my development journey again!<a href="https://linkedin.com/in/proSamik" style="margin-left: auto;"><img src="https://img.shields.io/badge/17--Dec--2024-Present-red" alt="17/12/2024 - Present" align="right"/></a></div>
 
 <p>
  - 📫 Reach me here for collaborations and help  

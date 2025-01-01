@@ -44,23 +44,17 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=proSamik&theme=react&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </div>
 
-<div align="center">
 
-### Profile Data
 <table>
-  <tr>
-    <td align="center">
-      <h3>Streak</h3>
-      <img src="https://git-hub-streak-stats.vercel.app?user=prosamik&theme=dark&border_radius=5&mode=weekly" alt="GitHub Streak" />
-    </td>
-    <td align="center">
-      <h3>GitHub Statistics</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=prosamik&theme=dark&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" />
-    </td>
-  </tr>
+<tr>
+<th>Streak</th>
+<th>GitHub Stats</th>
+</tr>
+<tr>
+<td><img src="https://github-readme-streak-stats.herokuapp.com/?user=proSamik&theme=react" alt="GitHub Streak" /></td>
+<td><img src="https://github-readme-stats.vercel.app/api?username=proSamik&theme=react&show_icons=true" alt="GitHub Stats" /></td>
+</tr>
 </table>
-
-</div>
 
 <!-- Trophy Section (Optional, Uncomment to Use)
 <div align="center">

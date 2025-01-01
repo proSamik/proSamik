@@ -45,11 +45,11 @@
 </div>
 
 
-<div>
-    <h3 align="center">Development Metrics</h3>
-    <div align="center">
-        <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=proSamik&theme=react" alt="GitHub Streak" />
-        <img width="48%" src="https://github-readme-stats.vercel.app/api?username=proSamik&theme=react&show_icons=true" alt="GitHub Stats" />
+<div align="center">
+    <h3>Development Metrics</h3>
+    <div style="display: flex; gap: 20px;">
+        <img width="480" src="https://github-readme-streak-stats.herokuapp.com/?user=proSamik&theme=react" alt="GitHub Streak" />
+        <img width="480" src="https://github-readme-stats.vercel.app/api?username=proSamik&theme=react&show_icons=true" alt="GitHub Stats" />
     </div>
 </div>
 

@@ -14,8 +14,8 @@
 </div>
 
 <div>
-<p>
-  <a href="https://linkedin.com/in/proSamik"><img src="https://img.shields.io/badge/Profile%20Since-red" alt="Profile Since" /></a><a href="https://linkedin.com/in/proSamik"><img src="https://img.shields.io/badge/01--Nov--2020-grey" alt="01/11/2020 - Present" /></a>
+<p style="display: flex; justify-content: space-between; align-items: center;">
+  <a href="https://linkedin.com/in/proSamik"><img style="margin-right: 4px;" src="https://img.shields.io/badge/Profile%20Since-red" alt="Profile Since" /></a><a href="https://linkedin.com/in/proSamik"><img style="margin-right: 4px;" src="https://img.shields.io/badge/01--Nov--2020-grey" alt="01/11/2020 - Present" /></a>
   <a href="https://linkedin.com/in/proSamik"><img align="right" src="https://komarev.com/ghpvc/?username=proSamik&label=Profile%20views&color=2363F7&style=flat" alt="Profile Views" /></a>
 </p>
 

@@ -48,7 +48,7 @@
 <div align="center">
     <h3>Development Metrics</h3>
     <div style="display: flex; gap: 20px;">
-        <img width="480" src="https://github-readme-streak-stats.herokuapp.com/?user=proSamik&theme=react" alt="GitHub Streak" />
+        <img width="480" src="https://nirzak-streak-stats.vercel.app?user=proSamik&theme=dark&border_radius=5&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
         <img width="480" src="https://github-readme-stats.vercel.app/api?username=proSamik&theme=react&show_icons=true" alt="GitHub Stats" />
     </div>
 </div>

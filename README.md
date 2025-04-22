@@ -26,7 +26,7 @@
 
 <br>
 
-<div style="display: flex; width: 100%; align-items: center;">- 📫 Reach me here for collaborations and help<a href="mailto:dev.samikc@gmail.com" style="margin-left: auto;"><img src="https://img.shields.io/badge/dev.samikc@gmail.com-red" alt="Email" align="right"/></a></div>
+<div style="display: flex; width: 100%; align-items: center;">- 📫 Reach me here for collaborations and help<a href="mailto:samik@prosamik.com" style="margin-left: auto;"><img src="https://img.shields.io/badge/samik@prosamik.com-red" alt="Email" align="right"/></a></div>
 
 
 

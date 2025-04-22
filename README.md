@@ -2,12 +2,17 @@
   
 <h1 align="center" > Hi 👋, I'm Samik </h1>
 
-<h3 align="center" > <strong> I love to build and learn new technologies </strong>   </h3> 
-<h4 align="center" > <strong> Focusing on building products that ship faster </strong>   </h4> 
-
 <div align="center">
 
-  <img align ="center" src="https://img.shields.io/badge/If_you_need_any_help,_I_would_love_to_help_you_(at_no_cost,_ofc),_so_feel_free_to_reach_me!-black" alt="If you need any help, I would love to help you (at no cost, ofc), so feel free to reach me!" />
+<h3 align="center"><strong>🚀 Recently started building and shipping a few SaaS products </strong></h3>
+<p align="center">
+  <a href="https://prosamik.com" target="_blank">Solopreneur Toolkit</a>, 
+  <a href="https://githubme.com" target="_blank">GithubMe- Markdown to landing Page</a>, 
+  <a href="https://githubme.com/prosamik/freescreenshot" target="_blank">Free tool for macOS</a> 
+  
+<h3 align="center"><strong> always open to feedback! </strong></h3>
+</p>
+
 
 </div>
 

@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<h3 align="center"><strong>I've reached to a point where I can build any Web App which solves a generic problem. All because of I restarted my development journey.</strong></h3>
+<h3 align="center"><strong>Just Solve your problems and you'll learn more than a bootcamp</strong></h3>
 <h3 align="center"><strong>Few of the problem Solvers linked below-</strong></h3>
 
 <p align="center">

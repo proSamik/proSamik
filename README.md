@@ -8,7 +8,7 @@
 <h3 align="center"><strong>Few of the problem Solvers linked below-</strong></h3>
 
 <p align="center">
-  <a href="https://subclip.app" target="_blank">AI Subtitle Video Editor for MacOS (coming Soon)</a> <br>
+  <a href="https://subclip.app" target="_blank">Add Subtitles to Your Videos Automatically</a> <br>
   <a href="https://grablink.xyz" target="_blank">Capture Leads with Analytics</a> <br>
   <a href="https://mapyourideas.com" target="_blank">AI Powered Brain Map</a> <br>
   <a href="https://prosamik.com" target="_blank">Solopreneur Toolkit</a> <br> 

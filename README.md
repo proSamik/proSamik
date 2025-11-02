@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<h3 align="center"><strong>Just Solve your problems and you'll learn more than a bootcamp</strong></h3>
+<h3 align="center"><strong>Just Solve your problems and monetize it</strong></h3>
 <h3 align="center"><strong>Few of the problem Solvers linked below-</strong></h3>
 
 <p align="center">

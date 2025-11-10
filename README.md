@@ -8,12 +8,12 @@
 <h3 align="center"><strong>Few of the problem Solvers linked below-</strong></h3>
 
 <p align="center">
-  <a href="https://subclip.app" target="_blank">Add Subtitles to Your Videos Automatically</a> <br>
-  <a href="https://grablink.xyz" target="_blank">Capture Leads with Analytics</a> <br>
-  <a href="https://mapyourideas.com" target="_blank">AI Powered Brain Map (Officially Closed)</a> <br>
-  <a href="https://prosamik.com" target="_blank">Solopreneur Toolkit</a> <br> 
-  <a href="https://githubme.com" target="_blank">GithubMe- Markdown to landing Page</a> <br>
-  <a href="https://githubme.com/prosamik/freescreenshot" target="_blank">Screenshot with fancy background for MacOS</a> <br>
+  <a href="https://subclip.app" target="_blank">Add Subtitles to Your Videos Automatically (Made $200)</a> <br>
+  <a href="https://grablink.xyz" target="_blank">Capture Leads with Analytics (Made $0)</a> <br>
+  <a href="https://mapyourideas.com" target="_blank">AI Powered Brain Map (Made $28)</a> <br>
+  <a href="https://prosamik.com" target="_blank">Solopreneur Toolkit (Made $0)</a> <br> 
+  <a href="https://githubme.com" target="_blank">GithubMe- Markdown to landing Page (Made $0)</a> <br>
+  <a href="https://githubme.com/prosamik/freescreenshot" target="_blank">Screenshot with fancy background for MacOS (Made $0)</a> <br>
   
 <h3 align="center"><strong> always open to feedback! </strong></h3>
 </p>

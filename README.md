@@ -50,11 +50,13 @@
 <br><br>
 <br><br>
 
+
 <div align="center">
 <h3> Most Used Languages </h3> 
 <img src="https://github-readme-stats-rho-henna-78.vercel.app/api/top-langs?username=proSamik&theme=react&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </div>
 
+  <br><br>
   <br><br>
   <br><br>
 
@@ -65,6 +67,7 @@
 
 </div>
 
+  <br><br>
   <br><br>
   <br><br>
 

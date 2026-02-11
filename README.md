@@ -27,11 +27,9 @@
 
 <br>
 
-<div style="display: flex; width: 100%; align-items: center;">- ♻️ I'm restarting my development journey again!<a href="https://x.com/proSamik" style="margin-left: auto;"><img src="https://img.shields.io/badge/17--Dec--2024-Present-red" alt="17/12/2024 - Present" align="right"/></a></div>
+<div style="display: flex; width: 100%; align-items: center;">♻️ I'm restarting my development journey again!<a href="https://x.com/proSamik" style="margin-left: auto;"><img src="https://img.shields.io/badge/17--Dec--2024-Present-red" alt="17/12/2024 - Present" align="right"/></a></div>
 
 <br>
-
-<div style="display: flex; width: 100%; align-items: center;">- 📫 Reach me here for collaborations and help<a href="mailto:samik@prosamik.com" style="margin-left: auto;"><img src="https://img.shields.io/badge/samik@prosamik.com-red" alt="Email" align="right"/></a></div>
 
 
 

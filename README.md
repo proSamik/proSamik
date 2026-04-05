@@ -61,7 +61,7 @@
 <div align="center">
   <h3>GitHub Streak</h3>
 
-  <img width="480" src="https://nirzak-streak-stats.vercel.app?user=proSamik&theme=dark&border_radius=5&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=prosamik&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&type=png" alt="GitHub Streak" />
 
 </div>
 

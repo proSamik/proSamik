@@ -61,7 +61,7 @@
 <div align="center">
   <h3>GitHub Streak</h3>
 
-  <img src="https://streak-stats.demolab.com?user=prosamik&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&type=png" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=prosamik" alt="GitHub Streak" />
 
 </div>
 

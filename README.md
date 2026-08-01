@@ -8,12 +8,12 @@
 <h3 align="center"><strong>Few of the problems I solved linked below-</strong></h3>
 
 <p align="center">
-  <a href="https://subclip.app" target="_blank">AI native Video Editor (Made $1,000)</a> <br>
+  <a href="https://subclip.app" target="_blank">AI native Video Editor (Made $1,100)</a> <br>
   <a href="https://grablink.xyz" target="_blank">Capture Leads with Analytics (Made $0)</a> <br>
   <a href="https://mapyourideas.com" target="_blank">AI Powered Brain Map (Made $28)</a> <br>
   <a href="https://prosamik.com" target="_blank">Solopreneur Toolkit (Made $0)</a> <br> 
-  <a href="https://githubme.com" target="_blank">GithubMe- Markdown to landing Page (Made $0)</a> <br>
-  <a href="https://githubme.com/prosamik/freescreenshot" target="_blank">Screenshot with fancy background for MacOS (Made $0)</a> <br>
+  <a href="https://github.com" target="_blank">GithubMe- Markdown to landing Page (Made $0)</a> <br>
+  <a href="https://github.com/prosamik/freescreenshot" target="_blank">Screenshot with fancy background for MacOS (Made $0)</a> <br>
   
 <h3 align="center"><strong> always open to feedback! </strong></h3>
 </p>
@@ -61,13 +61,41 @@
 <div align="center">
   <h3>GitHub Streak</h3>
 
-  <a href="https://streak-stats.demolab.com?user=prosamik"><img src="https://streak-stats.demolab.com?user=prosamik" alt="GitHub Streak" /></a>
+  <a href="https://www.prosamik.com/consistency"><img src="https://www.prosamik.com/api/embed/github/streak" alt="GitHub Streak" /></a>
 
 </div>
 
+<div align="center">
+  <h3>GitHub Contributions</h3>
+
+  <a href="https://www.prosamik.com/consistency/github"><img src="https://www.prosamik.com/api/embed/github/graph" alt="GitHub Graph" /></a>
+
+</div>
+
+<div align="center">
+  <h3>YouTube Streak</h3>
+
+  <a href="https://www.prosamik.com/consistency"><img src="https://www.prosamik.com/api/embed/youtube/streak" alt="YouTube Streak" /></a>
+
+</div>
+
+<div align="center">
+  <h3>YouTube Contributions</h3>
+
+  <a href="https://www.prosamik.com/consistency/youtube"><img src="https://www.prosamik.com/api/embed/youtube/graph" alt="YouTube Streak" /></a>
+
+</div>
+
+
+
   <br><br>
   <br><br>
   <br><br>
+
+
+
+
+<!-- 
 
 <div align="center">
   <h3>GitHub Stats</h3>
@@ -76,8 +104,6 @@
 </div>
 
 
-
-<!-- 
 <h3 align="center">Profile Data</h3>
 
 <table>

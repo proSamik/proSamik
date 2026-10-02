@@ -1,11 +1,10 @@
-
-  
 <h1 align="center" > Hi 👋, I'm Samik </h1>
 
 <div align="center">
 
-<h3 align="center"><strong>Just Solve your problems and monetize it</strong></h3>
-<h3 align="center"><strong>Few of the problems I solved linked below-</strong></h3>
+<h3 align="center"><strong>AI dimnished the only moat I had (Code & Debugging) 🥲</strong></h3>
+<h3 align="center"><strong>So, making AI write Code and learning internet sales to become future proof 🙂</strong></h3>
+<h3 align="center"><strong>Btw, few things I am proud of- </strong></h3>
 
 <p align="center">
   <a href="https://subclip.app" target="_blank">AI native Video Editor (Made $1,100)</a> <br>
@@ -32,30 +31,11 @@
 <br>
 
 
-
 <div align="center">
-
-<h3>Connect with Me</h3> 
-
-<p>
-  <a href="https://x.com/proSamik" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-</p>
-
-</div>
-
-<br><br>
-<br><br>
-
-
-<div align="center">
-<h3> Most Used Languages </h3> 
+<!-- <h3> Most Used Languages </h3> 
 <img src="https://github-readme-stats-rho-henna-78.vercel.app/api/top-langs?username=proSamik&theme=react&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</div>
+</div> -->
 
-  <br><br>
-  <br><br>
   <br><br>
 
 <div align="center">

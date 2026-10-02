@@ -3,7 +3,7 @@
 <div align="center">
 
 <h3 align="center"><strong>AI dimnished the only moat I had (Code & Debugging) 🥲</strong></h3>
-<h3 align="center"><strong>So, making AI write Code and learning internet sales to become future proof 🙂</strong></h3>
+<h3 align="center"><strong>So, making Agents write Code and learning to build a distribution channel to become future proof 🙂</strong></h3>
 <h3 align="center"><strong>Btw, few things I am proud of- </strong></h3>
 
 <p align="center">

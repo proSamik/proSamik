@@ -13,8 +13,12 @@
   <a href="https://prosamik.com" target="_blank">Solopreneur Toolkit (Made $0)</a> <br> 
   <a href="https://github.com" target="_blank">GithubMe- Markdown to landing Page (Made $0)</a> <br>
   <a href="https://github.com/prosamik/freescreenshot" target="_blank">Screenshot with fancy background for MacOS (Made $0)</a> <br>
-  
-<h3 align="center"><strong> always open to feedback! </strong></h3>
+</p>
+
+<h3 align="center"><strong>And sharing my experiences here- </strong></h3>
+
+<p align="center">
+  <a href="https://www.skool.com/zero-to-one-7899" target="_blank">Community for Founders looking for Zero to One Journey</a> <br>
 </p>
 
 

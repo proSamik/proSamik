@@ -7,7 +7,7 @@
 <h3 align="center"><strong>Btw, few things I am proud of- </strong></h3>
 
 <p align="center">
-  <a href="https://subclip.app" target="_blank">AI native Video Editor (Made $1,100)</a> <br>
+  <a href="https://subclip.app" target="_blank">AI native Video Editor (Made $1,400)</a> <br>
   <a href="https://grablink.xyz" target="_blank">Capture Leads with Analytics (Made $0)</a> <br>
   <a href="https://mapyourideas.com" target="_blank">AI Powered Brain Map (Made $28)</a> <br>
   <a href="https://prosamik.com" target="_blank">Solopreneur Toolkit (Made $0)</a> <br> 

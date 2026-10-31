@@ -10,7 +10,6 @@
   <a href="https://subclip.app" target="_blank">AI Video Editor (Made $1,500 in sales)</a> <br>
   <a href="https://grablink.xyz" target="_blank">Capture Leads with Analytics (Made $0)</a> <br>
   <a href="https://mapyourideas.com" target="_blank">AI Powered Brain Map (Made $28)</a> <br>
-  <a href="https://prosamik.com" target="_blank">Solopreneur Toolkit (Made $0)</a> <br> 
   <a href="https://github.com" target="_blank">GithubMe- Markdown to landing Page (Made $0)</a> <br>
   <a href="https://github.com/prosamik/freescreenshot" target="_blank">Screenshot with fancy background for MacOS (Made $0)</a> <br>
 </p>
